@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-### 🌱 I’m currently learning Digital Marketing
-### Currently Learning AI analysis
-### Backend too
+### 🌱 I’m constantly learning stuff
+### Currently:
+### Backend
+### MERN
+### SaaS development
 <!--
 **anasassi119/anasassi119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
