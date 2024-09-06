@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-### 🌱 I’m constantly learning stuff
-### -- Currently:
-### - Backend
-### - MERN
-### - SaaS development
+### 🌱 Currently Experiencing with Data Analysis
+### Experienced in: REST, React/Vite, GCP, Docker, Netlify, K8s, Python, PyTorch, Pandas, Numpy, SaaS, Express, and NodeJs
+### You can't see my work, it's confidential ;)
+### Reach me on my email: wintry.choker0h@icloud.com
 <!--
 **anasassi119/anasassi119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
