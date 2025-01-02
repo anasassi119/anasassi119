@@ -3,7 +3,7 @@
 ### 🌱 Currently experimenting with Data Analysis
 ### Experienced in: REST, React/Vite, GCP, Docker, Netlify, K8s, Python, PyTorch, Pandas, Numpy, SaaS, ReactJS, Express, and NodeJs
 ### You can see some of my work below, the other bits are confidential
-### Reach me on my email: wintry.choker0h@icloud.com
+### Reach me on my website: https://anasassi.com
 <!--
 **anasassi119/anasassi119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
