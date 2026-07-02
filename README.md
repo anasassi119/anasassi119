@@ -1,7 +1,4 @@
-### Hi there 👋
-
-### 🌱 I'm an AI Engineer.
-### Reach out on my website: https://anasassi.com
+### Hi there 👋 Just go to https://anasassi.com
 <!--
 **anasassi119/anasassi119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
