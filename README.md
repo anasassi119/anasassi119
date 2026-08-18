@@ -1,4 +1,4 @@
-### Hi there 👋 Just go to https://anasassi.com
+### Hi!
 <!--
 **anasassi119/anasassi119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
