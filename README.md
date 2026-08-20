@@ -6,7 +6,7 @@
 
 <h2>Technologies:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,java,laravel,angular,react,nodejs,express,kubernetes,fastapi,graphql,sqlite,mysql,postgresql,mongodb,linux,bash,git,github,gitlab,latex,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescriptangular,react,nodejs,express,kubernetes,fastapi,python,php,java,laravel,graphql,sqlite,mysql,postgresql,mongodb,linux,bash,git,github,gitlab,latex,aws,gcp)](https://skillicons.dev)
 
 
 <p align="center">
