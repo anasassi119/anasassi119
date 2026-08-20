@@ -10,6 +10,6 @@
 
 
 <p align="center">
-   <img src="https://github-readme-stats-ilab.vercel.app/api?username=anasassi119&border_color=2e4058" height="165"/>
-   <img src="https://github-readme-stats-ilab.vercel.app/api/top-langs/?username=anasassi119&hide_progress=false&layout=compact&border_color=2e4058" />       
+   <img src="https://github-stats-extended.vercel.app/api?username=anasassi119&hide_rank=true&show_icons=true&include_all_commits=true&theme=shadow_blue" />
+   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anasassi119&layout=compact&langs_count=4&hide_values=true&theme=shadow_blue" />       
 </p>
