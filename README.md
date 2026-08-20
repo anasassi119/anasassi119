@@ -1,15 +1,15 @@
-### Hi!
-<!--
-**anasassi119/anasassi119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anas Assi</h1>
 
-Here are some ideas to get you started:
+- **Software Engineer @NVIDIA**.
+- You can connect with me through [my Linkedin](https://linkedin.com/in/anasassi)
+- View a bit of my work on [my Portfolio](https://anasassi.com)
 
-- 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Technologies:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=python,php,java,laravel,angular,react,nodejs,express,kubernetes,fastapi,graphql,sqlite,mysql,postgresql,mongodb,linux,bash,git,github,gitlab,latex,aws,gcp)](https://skillicons.dev)
+
+
+<p align="center">
+   <img src="https://github-readme-stats-ilab.vercel.app/api?username=anasassi119&border_color=2e4058" height="165"/>
+   <img src="https://github-readme-stats-ilab.vercel.app/api/top-langs/?username=anasassi119&hide_progress=false&layout=compact&border_color=2e4058" />       
+</p>
